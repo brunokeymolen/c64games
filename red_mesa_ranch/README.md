@@ -34,7 +34,7 @@ along the range, shoot them down, save the herd, and keep Homestead 1 and Homest
   radio is how you find them.
 - **Rockets.** You start with 3. Every few craft shot down, a crate of rockets turns up on the
   range: drive over it for 3 more. A rocket steers towards the nearest craft and bursts, hurting
-  everything nearby. The Triangle shrugs off bullets but not rockets.
+  everything nearby. The Triangle takes 4 rockets; bullets only chip at it, 30 hits to bring it down.
 - **The cattle.** A saucer that goes for a cow hovers over it and beams it up. Shoot the saucer
   and the cow drops back down. Stay out of the beam: its field stalls your engine.
 - **The homesteads** burn after enough bolts. If both are lost, so is the ranch. You also lose when

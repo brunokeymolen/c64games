@@ -3,8 +3,9 @@
 A UFO shooter for the Commodore 64, written in 6502 assembly, with a port to the NES. Inspired by
 the stories told about Skinwalker Ranch in Utah's Uintah Basin. Red Mesa Ranch itself is fictional.
 
-From dawn to night, craft come out of a rift above the mesa: weaving orbs, saucers that bomb the
-homesteads and beam the cattle up, and at the end of every night the Triangle. Drive your pickup
+From dawn to night, craft come through a rift: weaving orbs out of the one above the mesa, and
+saucers that bomb the homesteads and beam the cattle up, through a rift that can open anywhere in
+the sky or at the edge of the range. At the end of every night comes the Triangle. Drive your pickup
 along the range, shoot them down, save the herd, and keep Homestead 1 and Homestead 2 standing.
 
 **[▶ Play in your browser](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/red_mesa_ranch/play/redmesa.prg)**: runs in the vc64web emulator, with no install.

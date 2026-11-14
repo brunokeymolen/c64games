@@ -4,7 +4,7 @@ A Halloween platform game for the Commodore 64, written in 6502 assembly, with a
 Brooke (in her witch costume) and her friend Raven must find the 8 pages of the score the
 vampires hid around the Grand Theatre, open the stage trapdoor and free Lola from the Count.
 
-**[▶ Play in your browser](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/vampire_musical/play/vampire.prg?v=51667bed)**: runs in the vc64web emulator, with no install.
+**[▶ Play in your browser](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/c90fee3bbd5cfbc216c3af3fec196b0d9bd3de98/vampire_musical/play/vampire.prg)**: runs in the vc64web emulator, with no install.
 
 | C64 begin screen | C64 | NES begin screen | NES |
 |:---:|:---:|:---:|:---:|

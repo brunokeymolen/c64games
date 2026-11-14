@@ -41,9 +41,9 @@ a joystick in port 2.
 
 | Game | Play online | Download |
 |------|-------------|----------|
-| [Ghost Hour](ghosthour/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/ghosthour/play/ghosthour.prg?v=478bca8f) | [.prg](ghosthour/play/ghosthour.prg) · [.d64](ghosthour/play/ghosthour.d64) · [.nes](ghosthour/play/ghosthour.nes) (NES port) |
-| [The Vampire Musical](vampire_musical/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/vampire_musical/play/vampire.prg?v=51667bed) | [.prg](vampire_musical/play/vampire.prg) · [.d64](vampire_musical/play/vampire.d64) · [.nes](vampire_musical/play/vampire.nes) (NES port) |
-| [Red Mesa Ranch](red_mesa_ranch/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/red_mesa_ranch/play/redmesa.prg?v=349ab2b0) | [.prg](red_mesa_ranch/play/redmesa.prg) · [.d64](red_mesa_ranch/play/redmesa.d64) · [.nes](red_mesa_ranch/play/redmesa.nes) (NES port) |
+| [Ghost Hour](ghosthour/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/c90fee3bbd5cfbc216c3af3fec196b0d9bd3de98/ghosthour/play/ghosthour.prg) | [.prg](ghosthour/play/ghosthour.prg) · [.d64](ghosthour/play/ghosthour.d64) · [.nes](ghosthour/play/ghosthour.nes) (NES port) |
+| [The Vampire Musical](vampire_musical/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/c90fee3bbd5cfbc216c3af3fec196b0d9bd3de98/vampire_musical/play/vampire.prg) | [.prg](vampire_musical/play/vampire.prg) · [.d64](vampire_musical/play/vampire.d64) · [.nes](vampire_musical/play/vampire.nes) (NES port) |
+| [Red Mesa Ranch](red_mesa_ranch/) | [▶ Play on C64](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/ccf6d422869d8d23f7379ccb7eaa75bf97ea2324/red_mesa_ranch/play/redmesa.prg) | [.prg](red_mesa_ranch/play/redmesa.prg) · [.d64](red_mesa_ranch/play/redmesa.d64) · [.nes](red_mesa_ranch/play/redmesa.nes) (NES port) |
 
 To play on your own machine, use the downloads with [VICE](https://vice-emu.sourceforge.io/)
 (`x64sc ghosthour.prg`) or on real hardware. The `.nes` file runs in any NES

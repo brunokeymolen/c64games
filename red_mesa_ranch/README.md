@@ -26,7 +26,7 @@ along the range, shoot them down, save the herd, and keep Homestead 1 and Homest
 |---------------------------|-------------------|----------|
 | Drive                     | left, right       | A, D     |
 | Rifle                     | fire              | SPACE    |
-| Launch a rocket           | up                | W        |
+| Launch a rocket           | up + fire         | W + SPACE |
 
 - **The radio.** The meter at the bottom listens at 1.6 GHz: the closer a craft is to your truck,
   the stronger the signal and the faster the beeps, and the arrow points to it. The signal also
@@ -70,7 +70,7 @@ music and sound, and the lost screen.
 |-----------------------------|-------------|--------------------|
 | Drive                       | left, right | arrow keys         |
 | Rifle                       | B           | D                  |
-| Launch a rocket             | A or up     | F or up arrow      |
+| Launch a rocket             | A, or up + B | F, or up arrow + D |
 | Start, go on from a screen  | START, A, B | Enter, F, D        |
 
 How it differs from the C64 version:

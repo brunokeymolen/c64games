@@ -11,7 +11,7 @@ The great clock stopped one minute before midnight, so the hour of the ghosts ne
 a telegram runner in a yellow slicker, caught in the storm. Find the four lost clock parts and bring
 them to the clock in the Great Hall.
 
-**[▶ Play in your browser](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/ghosthour/play/ghosthour.prg)**: runs in the vc64web emulator, with no install. Press SPACE to start.
+**[▶ Play in your browser](https://vc64web.github.io/#openROMS=true#port2=true#https://raw.githubusercontent.com/brunokeymolen/c64games/main/ghosthour/play/ghosthour.prg?v=478bca8f)**: runs in the vc64web emulator, with no install. Press SPACE to start.
 
 | Begin screen | Outside | Brooke |
 |:---:|:---:|:---:|
